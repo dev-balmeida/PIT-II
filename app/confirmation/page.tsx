@@ -20,7 +20,7 @@ export default function ConfirmationPage() {
           </p>
 
           <Link href="/">
-            <Button className="w-full">Ir para coleção</Button>
+            <Button className="w-full">Voltar à loja</Button>
           </Link>
         </Card>
       </div>

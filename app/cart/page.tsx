@@ -84,7 +84,6 @@ export default function CartPage() {
             )}
           </div>
 
-          {/* Summary */}
           <div>
             <CartSummary />
           </div>
